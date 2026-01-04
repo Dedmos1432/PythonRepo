@@ -1,0 +1,17 @@
+let x = 5;
+const y = 10;
+
+function add(a, b) {
+    if (a > b) {
+        return a + b;
+    } else {
+        return b - a;
+    }
+}
+
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+let result = add(x, y);
+console.log(result);
