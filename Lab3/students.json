@@ -1,0 +1,20 @@
+[
+  {
+    "student_id": "S1",
+    "full_name": "Ivan Petrov",
+    "age": "21",
+    "city": "Moscow"
+  },
+  {
+    "student_id": "S2",
+    "full_name": "Anna Smirnova",
+    "age": "25",
+    "city": "Saint Petersburg"
+  },
+  {
+    "student_id": "S3",
+    "full_name": "Kirill Ivanov",
+    "age": "23",
+    "city": "Kazan"
+  }
+]

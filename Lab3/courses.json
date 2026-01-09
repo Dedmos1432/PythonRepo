@@ -1,0 +1,30 @@
+[
+  {
+    "course_id": "C101",
+    "student_id": "S1",
+    "course_name": "Python Basics",
+    "progress": "80%",
+    "status": "in_progress"
+  },
+  {
+    "course_id": "C102",
+    "student_id": "S2",
+    "course_name": "Databases",
+    "progress": "100%",
+    "status": "completed"
+  },
+  {
+    "course_id": "C103",
+    "student_id": "S1",
+    "course_name": "Kafka Fundamentals",
+    "progress": "40%",
+    "status": "in_progress"
+  },
+  {
+    "course_id": "C104",
+    "student_id": "S3",
+    "course_name": "Web Development",
+    "progress": "20%",
+    "status": "started"
+  }
+]

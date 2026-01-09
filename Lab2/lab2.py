@@ -1,5 +1,4 @@
 import re
-
 class MyTranslator:
     def __init__(self):
         self.patterns = [
